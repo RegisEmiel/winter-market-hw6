@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class WinterMarketCoreApplication {
+	// Готовое домашнее задание выложу 28 марта
+	
 	// Домашнее задание:
 	// 1. Разобраться со структурой проекта
 	// 2. Замените цены продуктов/корзин с int на BigDecimal
