@@ -5,8 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class WinterMarketCoreApplication {
-	// Готовое домашнее задание выложу 28 марта
-	
+	// Замена int на BigDecimal выполнена
+	// Фильтрация не сделана. Делал на Thymeleaf на прошлом курсе. С фильтрацией на AngularJS нужно разбираться.
+
 	// Домашнее задание:
 	// 1. Разобраться со структурой проекта
 	// 2. Замените цены продуктов/корзин с int на BigDecimal
